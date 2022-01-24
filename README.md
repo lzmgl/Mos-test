@@ -1,4 +1,9 @@
 Mos-test
 
-HI! This page is for MOS-test.
-<h1><a class="p-2 text-muted" href="../test_page1/index.html">MOS test 시작</a></h1>
+이 작업은 조용한 환경에서 헤드폰을 사용하여 오디오 샘플을 청취하도록 합니다. 다음과 같은 경우 이 작업을 중지하십시오.
+1. 헤드폰이 없거나
+2. 배경 소음이 있거나
+3. 당신의 청취 능력이 좋지 않다고 생각하거나,
+4. 어떤 이유로든 오디오 샘플을 들을 수 없을때.
+
+<h1><a class="p-2 text-muted" href="./test_page1/index.html">MOS test 시작</a></h1>
